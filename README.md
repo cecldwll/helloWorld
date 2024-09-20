@@ -1,2 +1,2 @@
 # CSE310
-Applied Programmin
+Applied Programming
